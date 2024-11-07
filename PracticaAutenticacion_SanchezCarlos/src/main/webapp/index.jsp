@@ -10,10 +10,10 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Iniciar sesion</title>
-        <link rel="stylesheet" href="./css/styles.css" />
+        <link rel="stylesheet" type="text/css" href="./estilos/hola.css" />
+
     </head>
     <body>
-        <h1>Iniciar sesion</h1>
         <form action="login" method="POST">
             <label for="user">Usuario</label>
             <input type="text" name="user" required placeholder="user">
